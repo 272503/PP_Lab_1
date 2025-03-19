@@ -1,0 +1,2 @@
+# Praktyki_programowania
+Laboratoria praktyk programowania
